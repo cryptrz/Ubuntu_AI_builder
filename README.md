@@ -13,3 +13,7 @@ By default, I chose to run llama3.2 by default. If you prefer another one, you c
 You can replace `llama3,2` with another available model. You can list them with this command:
 
 `curl -s https://ollama.com/library | grep -oP '(?<=href="/library/)[^"]+' | sort -u`.
+
+Or you can go directly to this page: 
+
+https://ollama.com/library
