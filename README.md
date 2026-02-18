@@ -10,7 +10,7 @@ These scripts automate the installation (tested on Ubuntu 24.04.4 and Fedora 43)
 
 The objectif is to run your favorite LLMs locally and interact with them in a web browser. 
 
-## Choose your model
+## Choose your model
 
 By default, I chose to run llama3.2 by default. If you prefer another one, you can open a script and go to this line: 
 
