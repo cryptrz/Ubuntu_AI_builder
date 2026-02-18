@@ -1,4 +1,4 @@
-# Linux AI builders for Ubuntu and Fedora
+# Linux AI builders for Ubuntu and Fedora
 
 ## Summary
 
