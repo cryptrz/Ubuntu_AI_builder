@@ -27,9 +27,11 @@ https://ollama.com/library
 ## Preparation
 
 Ubuntu: `sudo chmod +x Ubuntu_AI_builder.sh`
+
 Fedora: `sudo chmod +x Fedora_XFCE_AI_builder.sh`
 
 ## Execution
 
 Ubuntu: `sudo ./Ubuntu_AI_builder.sh`
+
 Fedora: `Fedora_XFCE_AI_builder.sh`
